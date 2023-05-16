@@ -30,6 +30,7 @@ Run following command in terminal.
 scrapy crawl InstagramCrawler -o filename.csv --nolog in the terminal. Where rentinnoida.csv(for reference) is the file name in which the output will be recorded
 
 Notes:
+
 1)If you got the Login Checkpoint Exception then try to login to instagram Manually in the browser and it will ask for change your password.change your password 
 and now try to run the code if you got the same error again then try agagin using different set of credentials
 
