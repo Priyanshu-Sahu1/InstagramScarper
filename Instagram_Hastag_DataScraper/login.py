@@ -1,7 +1,6 @@
 import scrapy
 import time
 import parameter
-import drivers
 import instaloader
 def login():
    
